@@ -1,0 +1,49 @@
+
+body{
+	background-color: lightgray;}
+
+	img{margin: auto center;
+		margin-top: auto center;
+		border: 4px solid lightgray;
+
+
+
+	}
+	ol{color: lightblue;
+	font-family: 'helvetica';}
+
+ul{
+	background-color: white;
+
+	width: 650px;
+	height: 100px;
+	margin: 100px auto 40px;
+	border: 3px solid white;}
+
+	p{line-height: 1PX auto;
+	 font-family: 'helvetica';
+	font-size: 1em;
+
+	 }
+
+li{
+	border: 3px;
+	font-family: 'helvetica';
+	font-size: 1.6em;
+	display: inline-block;
+	margin: 28px;
+	padding: 5px;
+	background-color: white;
+	text-transform: uppercase;}
+
+section {
+	background-color:white;
+
+	width: 506px;
+	height:100vh;
+	margin: auto;
+border: 10px solid white;}
+
+
+
+}
